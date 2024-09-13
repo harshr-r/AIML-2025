@@ -17,7 +17,7 @@
 3.  [Lab 03](https://github.com/harshr-r/AIML-2025/blob/main/Lab-3_AIML.ipynb):  Intro to python libraries - Numpy
 4.  [Lab 04](https://github.com/harshr-r/AIML-2025/blob/main/Lab-4_AIML.ipynb):  Intro to python libraries - Numpy
 5.  [Lab 05](https://github.com/harshr-r/AIML-2025/blob/main/Lab-5_AIML.ipynb):  Intro to python libraries - Numpy
-6.  [Lab 06]():  Intro to python libraries - Numpy
+6.  [Lab 06](https://github.com/harshr-r/AIML-2025/blob/main/Lab_6_AIML.ipynb):  Intro to python libraries - Numpy
 7.  [Lab 07]():  Intro to python libraries - Numpy
 
 
