@@ -9,6 +9,7 @@
 5.  [Lab 05](https://github.com/harshr-r/AIML-2025/blob/main/AIML_A5.pdf):  Intro to python libraries - Numpy
 6.  [Lab 06](https://github.com/harshr-r/AIML-2025/blob/main/AIML_A6.pdf):  Intro to python libraries - Numpy
 7.  [Lab 07](https://github.com/harshr-r/AIML-2025/blob/main/AIML_A7.pdf):  Intro to python libraries - Numpy
+8.  [Lab 08](https://github.com/harshr-r/AIML-2025/blob/main/AIML_A8.pdf):  Intro to python libraries - Numpy
 
 
 ## Aritificial Intelligence and Machine Learning Lab Jupyter Notebook
